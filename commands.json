@@ -1,0 +1,5 @@
+{
+    "pwd" : "pwd",
+    "gitstatus" : "git status",
+    "apachereload" : "sudo service apache2 reload"
+}
