@@ -2,6 +2,8 @@
 
 Create buttons for doing stuff.
 
+ButtonForThat will serve up a webpage with buttons on it that execute shell commands on the machine where it's running.
+
 ## Installation
 1. Install Python (http://www.python.org/getit/).
 
