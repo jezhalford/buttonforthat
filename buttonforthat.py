@@ -2,9 +2,6 @@ import subprocess
 import json
 import web
 
-f = open('commands.json')
-commands = json.load(f)
-
 urls = (
     '/(.*)', 'button'
 )
